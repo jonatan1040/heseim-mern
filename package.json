@@ -16,6 +16,7 @@
     "client": "npm start --prefix client",
     "clientinstall": "npm install --prefix client",
     "dev": "nodemon --exec 'npm start'",
+    "build": "npm run build",
     "heroku-postbuild": "npm install"
   },
   "name": "yevgeni-heseim",
